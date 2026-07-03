@@ -1,4 +1,4 @@
-# 🧠 CNN Digit Predictor
+# 🧠 CNN Handwritten Digit Predictor
 
 > A web-based handwritten digit recognition application powered by a Convolutional Neural Network (CNN) and deployed directly in the browser using TensorFlow.js. 
 
